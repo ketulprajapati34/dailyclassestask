@@ -1,0 +1,7 @@
+D:\dotnet programs\MyPersonalDetails\bin\Debug\MyPersonalDetails.exe.config
+D:\dotnet programs\MyPersonalDetails\bin\Debug\MyPersonalDetails.exe
+D:\dotnet programs\MyPersonalDetails\bin\Debug\MyPersonalDetails.pdb
+D:\dotnet programs\MyPersonalDetails\obj\Debug\MyPersonalDetails.csproj.AssemblyReference.cache
+D:\dotnet programs\MyPersonalDetails\obj\Debug\MyPersonalDetails.csproj.CoreCompileInputs.cache
+D:\dotnet programs\MyPersonalDetails\obj\Debug\MyPersonalDetails.exe
+D:\dotnet programs\MyPersonalDetails\obj\Debug\MyPersonalDetails.pdb
